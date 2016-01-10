@@ -1,0 +1,44 @@
+{
+  "translation": [
+    "欢迎"
+  ],
+  "basic": {
+    "us-phonetic": "'wɛlkəm",
+    "phonetic": "'welkəm",
+    "uk-phonetic": "'welkəm",
+    "explains": [
+      "n. 欢迎",
+      "vt. 欢迎",
+      "adj. 受欢迎的",
+      "int. 欢迎",
+      "n. (Welcome)人名；(英)韦尔科姆"
+    ]
+  },
+  "query": "welcome",
+  "errorCode": 0,
+  "web": [
+    {
+      "value": [
+        "欢迎",
+        "欢迎访问",
+        "欢迎光临"
+      ],
+      "key": "Welcome"
+    },
+    {
+      "value": [
+        "欢迎到来",
+        "欢迎到",
+        "欢迎参加"
+      ],
+      "key": "welcome to"
+    },
+    {
+      "value": [
+        "喜燕",
+        "喜燕"
+      ],
+      "key": "Welcome Swallow"
+    }
+  ]
+}
